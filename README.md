@@ -1,1 +1,2 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+This is the source code to Ekaterina Lobacheva's public academic website: https://elobacheva.github.io
+The webpage template was borrowed from Jon Barron: https://jonbarron.info/.
