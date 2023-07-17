@@ -1,0 +1,8 @@
+@inproceedings{Sadrtdinov2021memorization,
+    author = {Ildus Sadrtdinov and Nadezhda Chirkova and Ekaterina Lobacheva},
+    title = {On the Memorization Properties of Contrastive Learning},
+    year = {2021},
+    url = {https://arxiv.org/abs/2107.10143},
+    booktitle = {Workshop on Overparameterization: Pitfalls & Opportunities at
+the International Conference on Machine Learning (ICML)},
+}

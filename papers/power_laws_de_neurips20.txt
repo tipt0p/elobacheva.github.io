@@ -1,0 +1,11 @@
+@inproceedings{lobacheva2020power,
+    author = {Ekaterina Lobacheva and Nadezhda Chirkova and Maxim Kodryan and Dmitry Vetrov},
+    booktitle = {Advances in Neural Information Processing Systems},
+    editor = {H. Larochelle and M. Ranzato and R. Hadsell and M.F. Balcan and H. Lin},
+    pages = {2375--2385},
+    publisher = {Curran Associates, Inc.},
+    title = {On Power Laws in Deep Ensembles},
+    url = {https://proceedings.neurips.cc/paper_files/paper/2020/file/191595dc11b4d6e54f01504e3aa92f96-Paper.pdf},
+    volume = {33},
+    year = {2020}
+}

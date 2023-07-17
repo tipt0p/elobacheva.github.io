@@ -1,0 +1,6 @@
+@article{ryabinin2018adaptive,
+    author = {Maksim Ryabinin and Ekaterina Lobacheva},
+    title = {Adaptive prediction time for sequence classification},
+    year={2018},
+    journal={OpenReview preprints id:SkIr6FywG},
+}

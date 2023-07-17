@@ -1,0 +1,8 @@
+@inproceedings{kodryan2022regimes,
+    title={Training Scale-Invariant Neural Networks on the Sphere Can Happen in Three Regimes},
+    author={Maxim Kodryan and Ekaterina Lobacheva and Maksim Nakhodnov and Dmitry Vetrov},
+    booktitle={Advances in Neural Information Processing Systems},
+    editor={Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
+    year={2022},
+    url={https://openreview.net/forum?id=edffTbw0Sws}
+}

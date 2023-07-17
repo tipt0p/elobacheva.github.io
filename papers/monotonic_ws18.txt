@@ -1,0 +1,6 @@
+@inproceedings{chistyakov2018monotonic,
+    author = {Alexander Chistyakov and Ekaterina Lobacheva and Alexander Shevelev and Alexey Romanenko},
+    title = {Monotonic models for real-time dynamic malware detection},
+    year={2018},
+    booktitle={Workshop Track of the International Conference on Learning Representations (ICLR)},
+}

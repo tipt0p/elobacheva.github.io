@@ -1,0 +1,6 @@
+@inproceedings{chistyakov2017emb,
+    author = {Alexander Chistyakov and Ekaterina Lobacheva and Arseny Kuznetsov and Alexey Romanenko},
+    title = {Semantic embeddings for program behavior patterns},
+    year={2017},
+    booktitle={Workshop Track of the International Conference on Learning Representations (ICLR)},
+}

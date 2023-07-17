@@ -1,0 +1,8 @@
+@article{Chirkova2020memory,
+    author = {Nadezhda Chirkova and Ekaterina Lobacheva and Dmitry P. Vetrov},
+    title = {Deep Ensembles on a Fixed Memory Budget: One Wide Network or Several
+                  Thinner Ones?},
+    journal = {arXiv preprint arXiv:2005.07292},
+    year = {2020},
+    url = {https://arxiv.org/abs/2005.07292}
+}

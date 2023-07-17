@@ -1,0 +1,12 @@
+@inproceedings{chirkova2018bayesian,
+    title = "{B}ayesian Compression for Natural Language Processing",
+    author = "Nadezhda Chirkova and Ekaterina Lobacheva and Dmitry Vetrov",
+    booktitle = "Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing",
+    month = oct # "-" # nov,
+    year = "2018",
+    address = "Brussels, Belgium",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/D18-1319",
+    doi = "10.18653/v1/D18-1319",
+    pages = "2910--2915",
+}
