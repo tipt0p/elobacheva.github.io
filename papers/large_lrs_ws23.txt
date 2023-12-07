@@ -1,0 +1,7 @@
+@inproceedings{Sadrtdinov2021memorization,
+    author = {Ekaterina Lobacheva and Eduard Pockonechnyy and Maxim Kodryan and Dmitry Vetrov},
+    title = {Large Learning Rates Improve Generalization: But How Large Are We Talking About?},
+    year = {2023},
+    url = {https://arxiv.org/abs/2311.11303},
+    booktitle = {Mathematics of Modern Machine Learning Workshop at Conference on Neural Information Processing Systems (NeurIPS)},
+}

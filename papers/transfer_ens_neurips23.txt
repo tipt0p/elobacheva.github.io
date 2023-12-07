@@ -1,7 +1,7 @@
-@article{sadrtdinov2023stay,
+@inproceedings{sadrtdinov2023stay,
     title={To Stay or Not to Stay in the Pre-train Basin: Insights on Ensembling in Transfer Learning},
     author={Ildus Sadrtdinov and Dmitrii Pozdeev and Dmitry Vetrov and Ekaterina Lobacheva},
+    booktitle={Advances in Neural Information Processing Systems},
     year={2023},
-    journal = {arXiv preprint arXiv:2303.03374},
-    url = {https://arxiv.org/abs/2303.03374}
+    url = {https://openreview.net/forum?id=NNooZoQpP4}
 }
