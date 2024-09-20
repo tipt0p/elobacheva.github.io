@@ -1,0 +1,7 @@
+@inproceedings{Mircea2024dissent,
+    author = {Andrei Mircea and Ekaterina Lobacheva and Irina Rish},
+    title = {Gradient Dissent in Language Model Training and Saturation},
+    year = {2024},
+    url = {https://openreview.net/forum?id=tJj3psv9nm},
+    booktitle = {Workshop on High-dimensional Learning Dynamics (HiLD) at Conference on Neural Information Processing Systems (NeurIPS)},
+}

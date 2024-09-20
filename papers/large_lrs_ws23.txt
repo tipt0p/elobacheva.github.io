@@ -1,4 +1,4 @@
-@inproceedings{Sadrtdinov2021memorization,
+@inproceedings{Lobacheva2023largelr,
     author = {Ekaterina Lobacheva and Eduard Pockonechnyy and Maxim Kodryan and Dmitry Vetrov},
     title = {Large Learning Rates Improve Generalization: But How Large Are We Talking About?},
     year = {2023},
