@@ -1,0 +1,7 @@
+@inproceedings{Mircea2024zsl,
+    author = {Andrei Mircea and Nima Chitsazan and Supriyo Chakraborty and Renkun Ni and Austin Zhang and Ekaterina Lobacheva and Irina Rish},
+    title = {Language Model Scaling Laws and Zero-Sum Learning},
+    year = {2024},
+    url = {https://openreview.net/forum?id=yBq2g832Go#discussion},
+    booktitle = {Workshop on Scientific Methods for Understanding Deep Learning (SciForDL) at Conference on Neural Information Processing Systems (NeurIPS)},
+}

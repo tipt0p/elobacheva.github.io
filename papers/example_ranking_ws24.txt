@@ -1,0 +1,7 @@
+@inproceedings{Lobacheva2024exranking,
+    author = {Ekaterina Lobacheva and Keller Jordan and Aristide Baratin and Nicolas Le Roux},
+    title = {How Learning Rates Shape Neural Network Focus: Insights from Example Ranking},
+    year = {2024},
+    url = {https://openreview.net/forum?id=NeetGrZ22b#discussion},
+    booktitle = {Workshop on Scientific Methods for Understanding Deep Learning (SciForDL) at Conference on Neural Information Processing Systems (NeurIPS)},
+}

@@ -1,8 +1,0 @@
-@inproceedings{Sadrtdinov2024largelr,
-    author = {Ildus Sadrtdinov and Maxim Kodryan and Eduard Pokonechny and Ekaterina Lobacheva and Dmitry Vetrov},
-    title = {Where Do Large Learning Rates Lead Us? A Feature Learning Perspective},
-    year = {2024},
-    url = {https://openreview.net/forum?id=IID2DF3q9J},
-    booktitle = {Workshop on High-dimensional Learning Dynamics (HiLD) at Conference on Neural Information Processing Systems (NeurIPS)},
-}
-

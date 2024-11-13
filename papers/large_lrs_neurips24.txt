@@ -1,0 +1,8 @@
+@inproceedings{Sadrtdinov2024largelr,
+    author = {Ildus Sadrtdinov and Maxim Kodryan and Eduard Pokonechny and Ekaterina Lobacheva and Dmitry Vetrov},
+    title = {Where Do Large Learning Rates Lead Us?},
+    year = {2024},
+    url = {https://openreview.net/forum?id=G5lMFOtFHa},
+    booktitle = {Advances in Neural Information Processing Systems},
+}
+
